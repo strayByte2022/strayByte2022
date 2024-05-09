@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 -->
-- 🔭 I’m currently working on [s1mple-ecommerce](https://github.com/strayByte2022/s1mple-ecommerce)
+- 🔭 I’m currently learning backend 
 - 🌱 I’m currently learning NextJS and React Native
 - 👯 I’m looking to collaborate on web projects
 - 🤔 I’m looking for help with backend technologies
